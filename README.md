@@ -1,9 +1,12 @@
- 
-ÉtiqMalin est un logiciel local de création, de mise en page
-et d'impression d'étiquettes, de cartes, d'enveloppes, de
-papiers photo et d'autres supports du quotidien.
+# ÉtiqMalin
 
-Il propose un catalogue de gabarits compatible avec les formats
-de papiers et d'étiquettes historiques de l'ancienne gamme
-PrintPratic, afin de permettre une utilisation moderne sur
-Windows sans avoir à recréer ses projets de zéro.
+Studio d'étiquettes Windows reconstruit en C# WinForms, sans dependance aux anciens composants.
+
+## Version actuelle
+
+1.2.10
+
+## Aide
+
+Forum officiel :
+https://ateliernumerique.superforum.fr/
